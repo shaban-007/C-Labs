@@ -1,0 +1,16 @@
+Day 3 : 
+=========
+1- C Program to take an array elements from user, then print them out "using 2 for loops". (Print Array)
+
+2- C Program to find the minimum & maximum value of array elements. (Min_Max Array)
+
+3- Write a program in C to find the second largest element in an array
+
+4- You are given a string s. You need to reverse the string.
+   Input: char s [] = Geeks
+   Output: skeeG
+
+5- Write a C program in C to find the count of the longest consecutive occurrence of a given number in an array. Example:
+   Array={1,2,2,3,3,3,3,4,4,4,4,3,3,3} and searching for 3 , result = 4
+
+6- Write  a program in C to Sort Array using Bubble Sort &   Selection Sort 

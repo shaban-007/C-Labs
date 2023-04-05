@@ -1,0 +1,33 @@
+Day1 & Day2:
+==============
+
+Answer the following questions:
+--------------------------------
+
+1- C Program to print "Hello World"
+
+2- C Program to print ASCII number of a given char
+
+3- C Program to print a float number entered by the user
+
+4- C Program to add two integers
+
+5- C Program to print Hexa of a number
+
+6 - C Program to make simple calculations (add, sub, multiply, divid) on two integers
+
+7- C Program to compute Quotient and Remainder
+
+8- C Program to Find the Largest Number Among Three Numbers
+
+9- C Program to Generate Multiplication Table "1*3=3, 2*3=6, ..."
+
+10- C Program to Check Whether a Character is an Alphabet or not
+
+11- Receive numbers from the user, and exit when the sum exceeds 100.
+
+12- Write a C program to print the multiplication table in ascending order from table 1 to table 10 sequentially and separated by group of " *'s ". 
+
+13- Rewrite the previous program to print them in descending order. 
+
+14- Magic Box.
