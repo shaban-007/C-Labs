@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680736780 source:c:\users\ahmed shaban\desktop\iot\c\lab_3\lab_3.6.2\selection_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
