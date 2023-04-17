@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1681734144 source:c:\users\ahmed shaban\desktop\iot\c\final lab\lab 4_2\concatenate\functions.c
+	"functions.h"
+
+1681734013 c:\users\ahmed shaban\desktop\iot\c\final lab\lab 4_2\concatenate\functions.h
+
+1681734283 source:c:\users\ahmed shaban\desktop\iot\c\final lab\lab 4_2\concatenate\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+	<stdio.h>
+

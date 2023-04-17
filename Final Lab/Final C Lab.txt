@@ -1,0 +1,9 @@
+1- Write a function to reverse a string by passing it to a function without using strrev function.
+
+2- Write a function to concatenate two strings without using strcat function.
+
+4-Write a function to  swap two numbers in c without using third variable(2 Methods).
+
+5- C Function to store information (name, id and grade) for 
+10 students in array of structures using pointers and 
+another function to print all the structures using pointers.

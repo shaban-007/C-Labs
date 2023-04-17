@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1681592903 source:c:\users\ahmed shaban\desktop\iot\c\final lab\reverse_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions.h"
+
+1681592865 source:c:\users\ahmed shaban\desktop\iot\c\final lab\reverse_string\functions.c
+	"Functions.h"
+
+1681592865 c:\users\ahmed shaban\desktop\iot\c\final lab\reverse_string\functions.h
+
